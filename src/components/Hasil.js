@@ -129,7 +129,7 @@ export default class Hasil extends Component {
                   <Row>
                     <Col xs={2}>
                       <h4>
-                        <Badge pill variant="success">
+                        <Badge pill bg="success">
                           {menuKeranjang.jumlah}
                         </Badge>
                       </h4>

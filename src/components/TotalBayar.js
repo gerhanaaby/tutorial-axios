@@ -36,7 +36,7 @@ export default class TotalBayar extends Component {
               </strong>
             </h4>
             <Button
-              variant="primary"
+              variant="success"
               block
               className="mb-2 mt-4 mr-2"
               size="lg"
